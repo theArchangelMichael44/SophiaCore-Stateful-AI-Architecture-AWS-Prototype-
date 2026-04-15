@@ -1,0 +1,13 @@
+{
+    "signal": {
+        "mass": 0.6,
+        "energy": 0.99,
+        "entropy": 0.89,
+        "message": "Hello, REFM!"
+    },
+    "intent": "observe",
+    "time": 1.0,
+    "timestamp": "2025-03-27T17:23:57.915761Z",
+    "weight": 1.0,
+    "score": 0.1089
+}
