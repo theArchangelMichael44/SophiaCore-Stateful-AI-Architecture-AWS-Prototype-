@@ -3,6 +3,7 @@
 ## Overview
 
 This repository contains early prototype work exploring **state-driven AI architecture** built on AWS (Lambda-based systems), prior to later simulation-based developments.
+This repository is best understood as an architectural precursor to later simulation-based Alpha Dragon work.
 
 Instead of treating AI systems as simple text-in / text-out models, this work explored:
 
